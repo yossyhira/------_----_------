@@ -16,4 +16,4 @@ ipsj.styファイルで定義した，本ファイルの体裁は[yk-labさん](
 except for portions derived from ipsj.sty,
 which are licensed under the BSD 2-Clause License.
 
-* © 2026 Yoshitaka Hirata
+* © 2026 yossyhira
