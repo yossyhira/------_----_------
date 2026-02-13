@@ -43,6 +43,16 @@
   <img src="https://github.com/user-attachments/assets/5551ff81-20f8-4f89-9404-8e37d2e8b667" width="500">
 </p>
 
+## 原稿作成に便利なサイト
+Latexで原稿を作成する際に有益なサイトを紹介します．
+* [表作成サイト](https://www.tablesgenerator.com/)
+    * Latex形式の表を直感的に作成できます．
+
+* 写真をeps形式に変更([jpg-eps](https://www.freeconvert.com/ja/jpg-to-eps), [png-eps](https://www.freeconvert.com/ja/png-to-eps))
+    * eps形式にすることでPDFを拡大しても画像の滑らかさを保持します．
+
+* [箇条書き](https://takataninote.com/tex/item.html)
+    * 箇条書き方を様々な形式で紹介
 
 ## 謝辞
 ipsj.styファイルで定義した，本ファイルの体裁は[yk-labさん](https://github.com/yk-lab/ipsj_national_convention_template/blob/master/ipsj.sty)のコードを一部使用しました．ありがとうございます．
