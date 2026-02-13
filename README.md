@@ -58,6 +58,8 @@ Latexで原稿を作成する際に有益なサイトを紹介します．
 ipsj.styファイルで定義した，本ファイルの体裁は[yk-labさん](https://github.com/yk-lab/ipsj_national_convention_template/blob/master/ipsj.sty)のコードを一部使用しました．ありがとうございます．
 
 ## LICENSE
+* 本プロジェクトは原則として MIT License の下で配布されています．
+ただし、ipsj.sty に由来する一部のコードには BSD 2-Clause License が適用されます．
 * This project is licensed under MIT License,
 except for portions derived from ipsj.sty,
 which are licensed under the BSD 2-Clause License.
