@@ -5,7 +5,9 @@
 
 # 使用方法
 1. 左上のCodeをクリックして，ZIP形式で本リポジトリをダウンロード
-![1](https://github.com/user-attachments/assets/8d9e950e-6964-4b5d-92e0-786558e667b8)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/8d9e950e-6964-4b5d-92e0-786558e667b8" width="500">
+</p>
 
 2. [Cloude Latex](https://cloudlatex.io/ja)を開き，ページ下部にあるマイページをクリック(Cloud Latexのアカウントがない場合は作成してください)
 ![2](https://github.com/user-attachments/assets/528adca4-491d-459f-a413-b4ed64f7f16d)
