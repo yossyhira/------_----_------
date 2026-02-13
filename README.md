@@ -24,7 +24,7 @@
   <img src="https://github.com/user-attachments/assets/8dece3dc-4bf5-40a7-b50f-76cbca194568" width="500">
 </p>
 
-4. ダウンロードしたZIPファイルをuplatex形式で開く
+4. ダウンロードしたZIPファイルを選択して，uplatex形式で開く
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/b792274d-155a-4ff9-875f-570fbd58c4eb" width="500">
