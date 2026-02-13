@@ -11,7 +11,7 @@
 
 # 使用方法 
 
-1. 左上のCodeをクリックして，ZIP形式で本リポジトリをダウンロード
+1. 右上のCodeをクリックして，ZIP形式で本リポジトリをダウンロード
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8d9e950e-6964-4b5d-92e0-786558e667b8" width="500">
