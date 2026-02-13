@@ -3,6 +3,12 @@
 
 また，ローカル環境での動作は確認していません．
 
+## 仕様
+* A4 2段組み 
+    * 上マージン30mm、下マージン 25mm、左マージン20mm、右マージン20mm、コラム間マージン7mm
+* ページ番号なし
+
+
 # 使用方法 
 
 1. 左上のCodeをクリックして，ZIP形式で本リポジトリをダウンロード
@@ -37,11 +43,6 @@
   <img src="https://github.com/user-attachments/assets/5551ff81-20f8-4f89-9404-8e37d2e8b667" width="500">
 </p>
 
-
-## 仕様
-* A4 2段組み 
-    * 上マージン30mm、下マージン 25mm、左マージン20mm、右マージン20mm、コラム間マージン7mm
-* ページ番号なし
 
 ## 謝辞
 ipsj.styファイルで定義した，本ファイルの体裁は[yk-labさん](https://github.com/yk-lab/ipsj_national_convention_template/blob/master/ipsj.sty)のコードを一部使用しました．ありがとうございます．
