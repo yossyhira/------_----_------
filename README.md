@@ -43,6 +43,8 @@
   <img src="https://github.com/user-attachments/assets/5551ff81-20f8-4f89-9404-8e37d2e8b667" width="500">
 </p>
 
+本リポジトリのままコンパイルすると警告が5つ表示されますが，問題なく原稿作成可能なため，警告は無視してOKです．
+
 ## 原稿作成に便利なサイト
 Latexで原稿を作成する際に有益なサイトを紹介します．
 * [表作成サイト](https://www.tablesgenerator.com/)
